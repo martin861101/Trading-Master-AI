@@ -1,0 +1,11 @@
+fastmcp
+tavily-python
+selenium
+requests
+langchain-google-genai
+python-dotenv
+langgraph
+yfinance
+alpha-vantage
+finnhub-python
+newsapi-python
